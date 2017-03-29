@@ -1,0 +1,2 @@
+vhdl work "multiplier8.vhd"
+vhdl work "mutiplier_tb.vhd"
